@@ -1,0 +1,21 @@
+body{
+    background-color:rgb(124, 177, 3);
+}
+
+#form{
+    background-color:aliceblue;
+    width:25%;
+    margin:120px auto;
+    padding: 50px;
+    box-shadow: 10px 10px 10px rgb(30, 61, 90);
+    border-radius: 10px;
+}
+#btn{
+    background-color:cadetblue;
+    color:white;
+    padding:5px;
+    border-radius:5px;
+    border-color:rgb(124, 177, 3);
+    font-size:medium;
+}
+
